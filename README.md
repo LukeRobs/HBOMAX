@@ -7,7 +7,7 @@
   O projeto é um clone do site <a href="https://www.hbomax.com/br/pt">HBO Max, com o intuito de reproduzir a interface, com algumas modificações.
 </p>
 
-<a href="#">
+<a href="https://hbomax-six.vercel.app/index.html">
   <img src="assets/images/readme-images/cover-2.png">
 </a>
 
@@ -37,4 +37,4 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo">Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](#link).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://hbomax-six.vercel.app/index.html).
